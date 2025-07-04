@@ -5,4 +5,7 @@ Lista de súper
 4. papas
 5. plátano
 6. queso
+7. fresas
+8. pollito
+9. atún
 
