@@ -1,0 +1,8 @@
+Las ramas en git nos permiten administrar el código de manera separa u por lo tanto de manera intependiente de las otras ramas.
+:qw
+:wq
+
+
+
+
+
